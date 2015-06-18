@@ -1,0 +1,9 @@
+{
+  "name": "ES6 + AngularJS",
+  "dependencies": {
+    "system.js": "0.18.1",
+    "angular": "1.3.16",
+    "angular-mocks": "1.3.16",
+    "angular-ui-router": "0.2.15"
+  }
+}
