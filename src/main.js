@@ -1,6 +1,6 @@
-import {app} from 'app/module';
+import {app} from 'module';
 
-import 'app/routes/home/home';
+import 'routes/home/home';
 
 app.config(function ($urlRouterProvider) {
   $urlRouterProvider.otherwise('/home');

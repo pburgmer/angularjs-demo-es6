@@ -1,6 +1,6 @@
 import 'angular-ui-router';
 
-import {app} from 'app/module';
+import {app} from 'module';
 
 app.config(function homeRoute($stateProvider) {
   $stateProvider.state('home', {
