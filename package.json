@@ -1,8 +1,8 @@
 {
-  "name": "es6-angular",
+  "name": "angular-demo-es6",
   "author": "pburgmer",
   "version": "0.0.1",
-  "description": "ES6 + AngularJS",
+  "description": "AngularJS ES6 Demo",
   "scripts": {
     "postinstall": "bower install",
     "start": "static"
