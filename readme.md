@@ -14,4 +14,4 @@ npm install
 npm start
 ```
 
-Open Browser with URL shown at console.
+Open Browser with URL shown at console + ```/src```.
